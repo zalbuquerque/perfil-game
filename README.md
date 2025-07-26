@@ -7,7 +7,7 @@ Site para gerar e sortear cartas para o jogo **Perfil**, permitindo que o mediad
 ---
 ## 📖 Sobre
 
-Este projeto é uma aplicação web simples que facilita o uso do jogo Perfil, aquele no qual o mediador apresenta cartas com pistas sobre uma pessoa, lugar, coisa ou ano, e os jogadores tentam adivinhar. O site gera e exibe aleatoriamente essas cartas, agilizando o processo tradicional com cartas físicas.
+Este projeto é uma aplicação web simples que facilita o uso do jogo Perfil, aquele no qual o mediador apresenta cartas com pistas sobre uma pessoa, lugar, coisa, atualidades, filme, série e digital e os jogadores tentam adivinhar. O site gera e exibe aleatoriamente essas cartas, agilizando o processo tradicional com cartas físicas.
 
 ---
 
