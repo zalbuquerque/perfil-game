@@ -1,0 +1,423 @@
+{
+  "category": "PESSOA",
+  "items": [
+    {
+      "name": "Albert Einstein",
+      "clues": [
+        "Revolucionei a física com a teoria da relatividade e o conceito de espaço-tempo.", "Minha equação E=mc² é famosa mundialmente.", "Nasci na Alemanha, mas minha carreira foi internacional.", "Meu trabalho revolucionou a física moderna.", "Fui laureado com o Prêmio Nobel de Física.",
+        "Minha imagem é um ícone cultural.", "Sou conhecido por meu cabelo bagunçado e olhar pensativo.", "Minha teoria desafiou conceitos clássicos de espaço e tempo.", "Sou um símbolo de genialidade e criatividade.",
+        "Sou tema de muitos filmes e livros.", "Minha influência vai além da ciência, tocando a filosofia e a cultura popular.", "Fui um defensor dos direitos civis e da paz mundial.", "Minha carta ao presidente Roosevelt ajudou a iniciar o Projeto Manhattan.",
+        "Meu legado continua a inspirar cientistas e pensadores.", "Sou lembrado como um dos maiores cientistas da história.", "Minha curiosidade era insaciável.", "Meu trabalho continua a ser estudado e admirado.", "Sou um símbolo de inovação e descoberta.", "Meu nome é referência em física.", "Sou inspiração para gerações de estudantes."
+      ]
+    },
+
+    {
+      "name": "Nelson Mandela",
+      "clues": [
+        "Lutei contra o apartheid e me tornei símbolo global de reconciliação e justiça social.", "Minha luta contra o apartheid durou décadas.", "Passei 27 anos preso por defender a igualdade.", "Fui símbolo de resistência e reconciliação.", "Recebi o Prêmio Nobel da Paz.", "Minha liderança inspirou o mundo.", "Promovi a união entre diferentes povos.", "Minha vida foi dedicada à justiça social.", "Sou lembrado como Madiba.", "Meu legado é de paz e tolerância.", "Minha história é ensinada em escolas ao redor do mundo.", "Fui presidente de 1994 a 1999.", "Minha luta influenciou movimentos globais.", "Sou um ícone da liberdade e dos direitos humanos.", "Minha mensagem de perdão é universal.", "Minha influência vai além da política.", "Sou inspiração para líderes e ativistas.", "Minha coragem mudou o destino de uma nação.", "Meu nome é sinônimo de esperança.", "Minha jornada é exemplo de superação."
+      ]
+    },
+    {
+      "name": "Taylor Swift",
+      "clues": [
+        "Sou responsável por uma revolução na indústria musical, influenciando contratos e direitos autorais de artistas.", "Minha carreira começou na música country, mas evoluí para pop e indie.", "Sou conhecida por minhas letras autobiográficas e narrativas.", "Ganhei vários prêmios Grammy ao longo da minha carreira.",
+        "Minha influência na música pop é significativa.", "Sou uma defensora dos direitos das mulheres e da igualdade.", "Minha base de fãs é apaixonada e leal.", "Minha imagem pública é cuidadosamente gerenciada.", "Sou tema de debates sobre privacidade e fama.",
+        "Minha música aborda temas como amor, perda e crescimento pessoal.", "Sou uma artista versátil, explorando diferentes gêneros musicais.", "Minha presença nas redes sociais é marcante.", "Sou vista como um ícone cultural moderno.",
+        "Meu impacto na indústria musical é inegável.", "Minha evolução artística continua a surpreender os fãs.", "Sou inspiração para jovens artistas.", "Minha turnê mundial é um fenômeno.", "Sou tema de documentários.", "Minha voz é reconhecida internacionalmente.", "Meu nome é sinônimo de sucesso."
+      ]
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "clues": [
+        "Minha atuação e engajamento ambiental mudaram paradigmas em Hollywood e na luta contra o aquecimento global.", "Minha carreira começou na televisão, mas rapidamente evoluiu para o cinema.", "Sou conhecido por meus papéis em filmes como 'Titanic', 'O Lobo de Wall Street' e 'O Regresso'.", "Ganhei o Oscar de Melhor Ator por 'O Regresso'.", "Minha atuação é reconhecida mundialmente.",
+        "Sou um defensor ativo da conservação ambiental.", "Minha fundação apoia projetos de sustentabilidade e proteção da vida selvagem.", "Minha imagem pública é de um ator comprometido com causas sociais e ambientais.", "Sou tema de debates sobre mudanças climáticas e responsabilidade social.", "Sou visto como um ícone do cinema moderno.", "Minha presença nas redes sociais é significativa.", "Sou um símbolo de sucesso e dedicação à arte.", "Minha influência na indústria cinematográfica é inegável.", "Minha evolução como ator continua a surpreender os fãs.", "Sou um exemplo de como o cinema pode ser usado para promover mudanças sociais e ambientais.", "Meu legado no cinema é marcado por performances memoráveis.", "Minha paixão pela atuação é evidente em cada papel que interpreto.", "Sou um defensor da educação e do acesso à cultura para todos.", "Minha carreira é um testemunho de perseverança e talento.", "Meu nome é referência em atuação."
+      ]
+    },
+    {
+      "name": "Lionel Messi",
+      "clues": [
+        "Minha trajetória é marcada por superação de desafios médicos e por redefinir padrões de excelência no futebol mundial.", "Minha carreira começou no Barcelona, onde joguei por mais de 20 anos.", "Sou conhecido por minha habilidade técnica e visão de jogo.", "Ganhei vários prêmios Ballon d'Or como o melhor jogador do mundo.", "Minha influência no futebol é global.",
+        "Sou um símbolo de humildade e trabalho duro.", "Minha imagem pública é de um atleta dedicado e apaixonado pelo esporte.", "Sou tema de debates sobre o melhor jogador da história do futebol.", "Minha carreira é marcada por recordes e conquistas impressionantes.",
+        "Sou visto como um ícone do esporte moderno.", "Minha presença nas redes sociais é significativa.", "Sou um exemplo de como o talento pode superar desafios.", "Minha evolução como jogador continua a inspirar jovens atletas.", "Sou um defensor da educação e do esporte para crianças carentes.",
+        "Meu legado no futebol é inegável.", "Sou inspiração para jovens atletas.", "Minha camisa é símbolo de paixão.", "Sou tema de documentários esportivos.", "Minha família me apoia em cada conquista.", "Meu nome é referência em futebol."
+      ]
+    },
+    {
+      "name": "Elon Musk",
+      "clues": [
+        "Sou responsável por avanços que desafiaram limites tecnológicos em energia, transporte e exploração espacial.", "Minha carreira inclui empresas como Tesla, SpaceX e Neuralink.", "Sou conhecido por minha visão futurista e ambição de colonizar Marte.", "Minha presença nas redes sociais é polêmica e influente.", "Ganhei reconhecimento mundial por minhas inovações tecnológicas.",
+        "Sou tema de debates sobre ética na tecnologia e responsabilidade corporativa.", "Minha imagem pública é de um visionário disruptivo.", "Minha luta por energia sustentável e exploração espacial inspira muitos.", "Sou visto como um ícone da inovação moderna.",
+        "Minha evolução como empresário continua a surpreender os críticos e apoiadores.", "Sou um exemplo de como a tecnologia pode transformar o mundo.", "Sou inspiração para empreendedores.", "Meu nome é referência em inovação.", "Sou tema de livros e documentários.", "Minha visão desafia limites.", "Sou símbolo de ousadia.", "Minha liderança é controversa.", "Sou reconhecido por ideias revolucionárias.", "Minha influência é global.", "Sou referência em tecnologia disruptiva."
+      ]
+    },
+    {
+      "name": "Harry Potter",
+      "clues": [
+        "Minha existência é marcada por uma profecia que alterou o destino do mundo bruxo.", "Minha cicatriz em forma de raio é icônica.", "Estudei em Hogwarts.", "Meus amigos são Rony e Hermione.", "Jogo quadribol como apanhador.",
+        "Fui escolhido pela varinha de sabugueiro.", "Minha coruja se chama Edwiges.", "Sou o protagonista de uma saga de sete livros.", "Meu inimigo é o Lord das Trevas.", "Fui membro da Armada de Dumbledore.",
+        "Minha casa é a Grifinória.", "Fui campeão do Torneio Tribruxo.", "Minha mãe me protegeu com amor.", "Sou conhecido como o Menino que Sobreviveu.", "Meu patrono é um cervo.",
+        "Ajudei a destruir as Horcruxes.", "Sou tema de filmes e livros.", "Minha história inspira coragem.", "Fui líder na batalha final de Hogwarts.", "Meu nome é referência em magia."
+      ]
+    },
+    {
+      "name": "Homem-Aranha",
+      "clues": [
+        "Minha origem está ligada a um experimento científico que mudou minha vida e a história dos quadrinhos.", "Meu nome verdadeiro é Peter Parker.", "Fui picado por uma aranha radioativa.", "Protejo Nova York dos vilões.", "Minha tia May é minha família.",
+        "Sou conhecido pelo meu senso de responsabilidade.", "Uso um uniforme vermelho e azul.", "Lanço teias para me locomover.", "Meu inimigo é o Duende Verde.", "Sou amigo do Homem de Ferro.",
+        "Sou membro dos Vingadores.", "Minha identidade secreta é um desafio.", "Sou tema de quadrinhos, filmes e séries.", "Minha frase famosa é 'Com grandes poderes vêm grandes responsabilidades'.",
+        "Fui interpretado por vários atores no cinema.", "Minha vida é cheia de desafios pessoais.", "Sou inspiração para jovens heróis.", "Minha história envolve perdas e superações.", "Sou símbolo de coragem e humildade.", "Meu nome é referência em super-heróis."
+      ]
+    },
+    {
+      "name": "Mickey Mouse",
+      "clues": [
+        "Minha criação marcou o início de uma era de animação e entretenimento global.", "Tenho orelhas redondas e grandes.", "Minha namorada é a Minnie.", "Meu cachorro se chama Pluto.", "Sou amigo do Pato Donald.",
+        "Sou símbolo da cultura pop mundial.", "Minha primeira aparição foi em 1928.", "Sou o mascote oficial da Disney.", "Sou conhecido por minha voz aguda.", "Sou tema de desenhos animados e parques temáticos.",
+        "Minha roupa é vermelha e amarela.", "Sou inspiração para gerações de crianças.", "Minha imagem está em produtos pelo mundo.", "Sou protagonista de muitos curtas e filmes.", "Minha casa é o Castelo da Disney.",
+        "Sou símbolo de alegria e diversão.", "Minha história é marcada por inovação.", "Sou reconhecido internacionalmente.", "Minha amizade é um valor importante.", "Meu nome é referência em animação."
+      ]
+    },
+    {
+      "name": "Sherlock Holmes",
+      "clues": [
+        "Minha capacidade de dedução e raciocínio lógico revolucionou a literatura policial.", "Minha mente lógica é meu maior talento.", "Moro na Baker Street, 221B.", "Meu amigo é o Dr. Watson.", "Sou conhecido pelo chapéu e cachimbo.",
+        "Resolvo mistérios aparentemente insolúveis.", "Sou criação de Arthur Conan Doyle.", "Minha frase famosa é 'Elementar, meu caro Watson'.",
+        "Sou tema de livros, filmes e séries.", "Minha habilidade de dedução é lendária.", "Enfrento vilões como Moriarty.", "Sou inspiração para detetives reais e fictícios.", "Minha história se passa na Londres vitoriana.", "Sou símbolo de inteligência e observação.", "Minha fama atravessa gerações.", "Sou referência em literatura policial.", "Minha imagem é icônica.", "Sou protagonista de inúmeras adaptações.", "Minha lógica desafia o impossível.", "Meu nome é sinônimo de investigação."
+      ]
+    },
+    {
+      "name": "Lisa Simpson",
+      "clues": [
+        "Minha personalidade desafia estereótipos e aborda temas sociais e filosóficos em animação.", "Faço parte da família Simpson.", "Toco saxofone com paixão.", "Sou vegetariana e ativista.", "Minha cor favorita é o vermelho.",
+        "Sou conhecida por minha ética e valores.", "Minha inteligência é acima da média.", "Sou tema de episódios sobre justiça social.", "Minha mãe é Marge e meu pai é Homer.", "Meu irmão é Bart Simpson.",
+        "Sou inspiração para meninas estudiosas.", "Minha voz é marcante.", "Sou defensora dos animais.", "Minha história envolve desafios escolares.", "Sou símbolo de perseverança.", "Minha curiosidade é insaciável.", "Sou reconhecida por professores e colegas.", "Minha imagem é icônica na cultura pop.", "Sou protagonista de episódios especiais.", "Meu nome é referência em animação."
+      ]
+    },
+    {
+      "name": "Darth Vader",
+      "clues": [
+        "Minha trajetória é marcada por uma queda trágica e redenção, tornando-me um ícone do conflito entre luz e sombra.", "Minha respiração é inconfundível.", "Fui um Jedi antes de me tornar Sith.", "Meu nome verdadeiro é Anakin Skywalker.", "Sou pai de Luke e Leia.",
+        "Uso uma armadura preta e um sabre de luz vermelho.", "Sou símbolo do lado sombrio da Força.", "Minha frase famosa é 'Eu sou seu pai'.",
+        "Sou tema de filmes, séries e quadrinhos.", "Minha história é marcada por redenção.", "Sou inspiração para vilões da cultura pop.", "Minha imagem é icônica.", "Minha presença impõe respeito.", "Sou protagonista de uma saga intergaláctica.", "Minha luta interna é constante.", "Sou referência em ficção científica.", "Minha fama atravessa gerações.", "Sou símbolo de poder e medo.", "Minha história é complexa.", "Meu nome é sinônimo de Star Wars."
+      ]
+    },
+    {
+      "name": "Silvio Santos",
+      "clues": [
+        "Minha trajetória é marcada por inovação na televisão brasileira e empreendedorismo popular.", "Meu bordão é 'Quem quer dinheiro?'.", "Fundei o SBT.", "Minha risada é inconfundível.", "Sou conhecido pelo microfone de lapela.",
+        "Minha carreira começou como camelô.", "Sou símbolo da televisão brasileira.", "Apresentei programas de auditório por décadas.", "Minha família também trabalha na TV.", "Sou tema de memes e imitações.",
+        "Minha imagem é associada à alegria e diversão.", "Sou reconhecido por minha generosidade.", "Minha trajetória inspira empreendedores.", "Sou lembrado por quadros clássicos como 'Show do Milhão'.", "Minha voz é marcante.",
+        "Sou inspiração para apresentadores.", "Minha história é exemplo de superação.", "Sou referência em comunicação.", "Minha fama atravessa gerações.", "Meu nome é sinônimo de TV brasileira."
+      ]
+    },
+    {
+      "name": "Pelé",
+      "clues": [
+        "Minha genialidade e impacto transcendem o esporte, tornando-me um fenômeno cultural global.", "Ganhei três Copas do Mundo pela Seleção Brasileira.", "Meu nome verdadeiro é Edson Arantes do Nascimento.", "Fui ídolo do Santos Futebol Clube.", "Marquei mais de mil gols na carreira.",
+        "Sou símbolo de habilidade e genialidade.", "Minha imagem é reconhecida mundialmente.", "Sou inspiração para jogadores de todas as gerações.", "Fui embaixador do esporte.", "Minha história é tema de filmes e livros.",
+        "Sou lembrado por gols históricos.", "Minha humildade é admirada.", "Sou referência em futebol arte.", "Minha fama atravessa fronteiras.", "Sou tema de homenagens e prêmios.",
+        "Minha trajetória inspira superação.", "Sou símbolo de alegria e paixão pelo esporte.", "Minha camisa 10 é lendária.", "Sou reconhecido por minha contribuição ao futebol.", "Meu nome é sinônimo de futebol mundial."
+      ]
+    },
+    {
+      "name": "Oprah Winfrey",
+      "clues": [
+        "Minha influência na mídia e filantropia redefiniu padrões de comunicação e empoderamento feminino.", "Meu talk show foi sucesso por décadas.", "Sou conhecida por entrevistas marcantes.", "Minha história é de superação e inspiração.", "Fui indicada ao Oscar como atriz.",
+        "Sou empresária e filantropa.", "Minha voz é referência em empoderamento.", "Sou símbolo de liderança feminina.", "Minha imagem é reconhecida internacionalmente.", "Sou tema de livros e documentários.",
+        "Minha trajetória inspira mulheres ao redor do mundo.", "Sou lembrada por doações generosas.", "Minha influência vai além da TV.", "Sou referência em comunicação.", "Minha fama atravessa gerações.",
+        "Sou inspiração para apresentadores.", "Minha história é exemplo de resiliência.", "Sou reconhecida por minha autenticidade.", "Minha presença é marcante em eventos sociais.", "Meu nome é sinônimo de sucesso."
+      ]
+    },
+    {
+      "name": "Barack Obama",
+      "clues": [
+        "Minha ascensão à presidência dos EUA representou uma mudança histórica e social global.", "Meu slogan era 'Yes, we can!'.", "Fui senador por Illinois.", "Minha esposa é Michelle Obama.", "Recebi o Prêmio Nobel da Paz.",
+        "Minha presidência foi marcada por reformas na saúde.", "Sou reconhecido por minha oratória.", "Minha imagem é símbolo de esperança.", "Sou inspiração para líderes mundiais.", "Minha trajetória é tema de livros e filmes.",
+        "Sou lembrado por discursos históricos.", "Minha influência vai além da política.", "Sou referência em liderança.", "Minha fama atravessa fronteiras.", "Sou tema de homenagens e prêmios.",
+        "Minha história inspira superação.", "Sou símbolo de mudança social.", "Minha família é admirada internacionalmente.", "Sou reconhecido por minha diplomacia.", "Meu nome é sinônimo de política global."
+      ]
+    },
+    {
+      "name": "Beyoncé",
+      "clues": [
+        "Minha arte e ativismo redefiniram padrões de representatividade e empoderamento na cultura pop mundial.", "Fui integrante do grupo Destiny's Child.", "Minha carreira solo é marcada por sucessos mundiais.", "Sou conhecida por minha voz poderosa.", "Minha imagem é símbolo de empoderamento feminino.",
+        "Sou casada com Jay-Z.", "Minha influência vai além da música.", "Sou referência em moda e estilo.", "Minha presença nos palcos é marcante.", "Sou tema de documentários e filmes.",
+        "Minha trajetória inspira artistas ao redor do mundo.", "Sou lembrada por performances icônicas.", "Minha fama atravessa gerações.", "Sou inspiração para cantoras e dançarinas.", "Minha história é exemplo de dedicação.",
+        "Sou reconhecida por minha autenticidade.", "Minha voz é referência internacional.", "Sou símbolo de cultura pop.", "Minha carreira é marcada por prêmios e recordes.", "Meu nome é sinônimo de sucesso musical."
+      ]
+    },
+    {
+      "name": "Angelina Jolie",
+      "clues": [
+        "Minha carreira é marcada por escolhas ousadas e ativismo internacional que influenciaram o cinema e causas humanitárias.", "Ganhei o Oscar de Melhor Atriz Coadjuvante por 'Garota, Interrompida'.", "Sou conhecida por papéis em filmes de ação e drama.", "Minha imagem é símbolo de beleza e força.", "Sou ativista humanitária internacional.",
+        "Adotei filhos de diferentes países.", "Minha carreira é marcada por escolhas ousadas.", "Sou inspiração para atrizes e mulheres.", "Minha presença em eventos sociais é marcante.", "Sou tema de revistas e documentários.",
+        "Minha trajetória inspira superação.", "Sou lembrada por papéis icônicos.", "Minha fama atravessa gerações.", "Sou referência em cinema e filantropia.", "Minha história é exemplo de coragem.",
+        "Sou reconhecida por minha autenticidade.", "Minha voz é referência internacional.", "Sou símbolo de cultura pop.", "Minha carreira é marcada por prêmios e recordes.", "Meu nome é sinônimo de sucesso cinematográfico."
+      ]
+    },
+    {
+      "name": "Anitta",
+      "clues": [
+        "Minha trajetória é marcada por inovação e internacionalização da música brasileira.", "Minha carreira começou no funk carioca.", "Ganhei reconhecimento internacional com 'Show das Poderosas'.", "Sou conhecida por minha versatilidade musical.", "Minha presença nas redes sociais é marcante.",
+        "Sou referência em empoderamento feminino.", "Minha imagem é símbolo de ousadia e inovação.", "Sou tema de documentários e entrevistas.", "Minha trajetória inspira jovens artistas.", "Sou lembrada por colaborações internacionais.",
+        "Minha fama atravessa fronteiras.", "Sou inspiração para cantoras brasileiras.", "Minha história é exemplo de superação.", "Sou reconhecida por minha autenticidade.", "Minha voz é referência no pop nacional.",
+        "Sou símbolo de cultura pop brasileira.", "Minha carreira é marcada por prêmios e recordes.", "Sou empresária de sucesso.", "Minha influência vai além da música.", "Meu nome é sinônimo de sucesso."
+      ]
+    },
+    {
+      "name": "Gisele Bündchen",
+      "clues": [
+        "Minha influência redefiniu padrões de beleza e sustentabilidade na indústria da moda internacional.", "Minha carreira internacional começou nos anos 90.", "Fui Angel da Victoria's Secret.", "Sou conhecida por minha beleza e profissionalismo.", "Minha imagem é símbolo de elegância.",
+        "Sou empresária e ativista ambiental.", "Minha trajetória inspira modelos brasileiras.", "Sou lembrada por campanhas publicitárias icônicas.", "Minha fama atravessa gerações.", "Sou inspiração para mulheres no mundo da moda.",
+        "Minha história é exemplo de dedicação.", "Sou reconhecida por minha autenticidade.", "Minha voz é referência internacional.", "Sou símbolo de cultura pop.", "Minha carreira é marcada por prêmios e recordes.",
+        "Sou mãe e defensora da sustentabilidade.", "Minha influência vai além das passarelas.", "Sou tema de livros e documentários.", "Minha imagem é reconhecida mundialmente.", "Meu nome é sinônimo de sucesso na moda."
+      ]
+    },
+    {
+      "name": "Ayrton Senna",
+      "clues": [
+        "Minha habilidade e legado mudaram a percepção mundial sobre o automobilismo e o espírito esportivo.", "Ganhei três campeonatos mundiais.", "Minha carreira é marcada por vitórias emocionantes.", "Sou símbolo de velocidade e coragem.", "Minha imagem é reconhecida internacionalmente.",
+        "Sou inspiração para pilotos brasileiros.", "Minha trajetória inspira superação.", "Sou lembrado por corridas históricas.", "Minha fama atravessa gerações.", "Sou tema de homenagens e prêmios.",
+        "Minha história é exemplo de dedicação.", "Sou reconhecido por minha autenticidade.", "Minha voz é referência no automobilismo.", "Sou símbolo de cultura pop.", "Minha carreira é marcada por prêmios e recordes.",
+        "Sou lembrado por minha generosidade.", "Minha influência vai além das pistas.", "Sou tema de livros e documentários.", "Minha imagem é reconhecida mundialmente.", "Meu nome é sinônimo de velocidade."
+      ]
+    },
+    {
+      "name": "Ivete Sangalo",
+      "clues": [
+        "Minha presença e influência transformaram o cenário musical brasileiro, especialmente no axé e na música de carnaval.", "Minha carreira começou no axé baiano.", "Sou conhecida por minha energia nos palcos.", "Minha voz é referência nacional.", "Sou inspiração para cantoras brasileiras.",
+        "Minha imagem é símbolo de alegria e carisma.", "Sou tema de documentários e entrevistas.", "Minha trajetória inspira jovens artistas.", "Sou lembrada por grandes shows e carnavais.", "Minha fama atravessa gerações.",
+        "Sou empresária de sucesso.", "Minha influência vai além da música.", "Sou reconhecida por minha autenticidade.", "Minha carreira é marcada por prêmios e recordes.", "Sou mãe e referência em família.",
+        "Minha história é exemplo de dedicação.", "Sou símbolo de cultura pop brasileira.", "Minha presença nas redes sociais é marcante.", "Sou lembrada por colaborações musicais.", "Meu nome é sinônimo de sucesso."
+      ]
+    },
+    {
+      "name": "Galvão Bueno",
+      "clues": [
+        "Minha narração e estilo influenciaram gerações e mudaram a forma de transmitir esportes no Brasil.", "Minha voz é reconhecida em transmissões de futebol e Fórmula 1.", "Sou conhecido pelo bordão 'Haja coração!'.", "Minha carreira é marcada por grandes eventos esportivos.", "Sou símbolo de emoção nas narrações.",
+        "Minha imagem é referência em jornalismo esportivo.", "Sou inspiração para narradores brasileiros.", "Minha trajetória inspira dedicação.", "Sou lembrado por momentos históricos na TV.", "Minha fama atravessa gerações.",
+        "Sou tema de homenagens e prêmios.", "Minha influência vai além do esporte.", "Sou reconhecido por minha autenticidade.", "Minha carreira é marcada por prêmios e recordes.", "Sou pai e referência em família.",
+        "Minha história é exemplo de profissionalismo.", "Sou símbolo de cultura pop brasileira.", "Minha presença nas redes sociais é marcante.", "Sou lembrado por transmissões marcantes.", "Meu nome é sinônimo de narração esportiva."
+      ]
+    },
+    {
+      "name": "Luke Skywalker",
+      "clues": [
+        "Minha jornada representa o arquétipo do herói e a luta entre bem e mal em uma galáxia distante.", "Minha arma é o sabre de luz.", "Fui treinado por Yoda e Obi-Wan Kenobi.", "Sou filho de Darth Vader.", "Minha irmã é a Princesa Leia.",
+        "Ajudei a derrotar o Império Galáctico.", "Minha casa era Tatooine.", "Sou conhecido por minha coragem e esperança.", "Minha jornada envolve redenção e família.", "Sou tema de filmes, séries e quadrinhos.",
+        "Minha imagem é icônica na cultura pop.", "Sou símbolo da luta pelo bem.", "Minha história inspira gerações de fãs.", "Fui líder da Aliança Rebelde.", "Minha presença é marcante em batalhas épicas.",
+        "Sou inspiração para heróis intergalácticos.", "Minha fama atravessa gerações.", "Sou referência em ficção científica.", "Minha trajetória envolve desafios e superações.", "Meu nome é sinônimo de Star Wars."
+      ]
+    },
+    {
+      "name": "Hermione Granger",
+      "clues": [
+        "Minha inteligência e coragem desafiaram tradições e mudaram o destino do mundo mágico.", "Meus amigos são Harry Potter e Rony Weasley.", "Sou conhecida por minha inteligência e dedicação.", "Minha casa é a Grifinória.", "Ajudei a derrotar o Lord Voldemort.",
+        "Sou ativista pelos direitos dos elfos domésticos.", "Minha varinha é feita de videira.", "Sou tema de filmes e livros.", "Minha coragem inspira meninas ao redor do mundo.", "Minha presença é marcante nas aventuras mágicas.",
+        "Sou símbolo de amizade e lealdade.", "Minha fama atravessa gerações.", "Sou inspiração para estudantes.", "Minha história envolve desafios e superações.", "Sou reconhecida por minha ética e valores.",
+        "Minha imagem é icônica na cultura pop.", "Sou protagonista de momentos decisivos.", "Minha curiosidade é insaciável.", "Sou referência em magia e inteligência.", "Meu nome é sinônimo de Harry Potter."
+      ]
+    },
+    {
+      "name": "Walter White",
+      "clues": [
+        "Minha transformação de professor a figura criminal redefiniu narrativas de anti-heróis na televisão.", "Fui professor de química antes de virar criminoso.", "Minha alcunha é Heisenberg.", "Produzi metanfetamina para sustentar minha família.", "Minha história é marcada por escolhas extremas.",
+        "Sou símbolo de transformação e ambiguidade moral.", "Minha imagem é icônica com chapéu e óculos escuros.", "Sou tema de debates sobre ética e crime.", "Minha trajetória inspira discussões sobre limites humanos.", "Minha fama atravessa gerações de fãs.",
+        "Sou inspiração para personagens complexos.", "Minha história envolve perdas e superações.", "Sou reconhecido por minha inteligência.", "Minha presença é marcante em cenas dramáticas.", "Sou protagonista de momentos decisivos.",
+        "Minha frase famosa é 'I am the one who knocks'.", "Sou referência em séries de TV.", "Minha imagem é símbolo de poder e medo.", "Minha história é exemplo de transformação.", "Meu nome é sinônimo de Breaking Bad."
+      ]
+    },
+    {
+      "name": "Daenerys Targaryen",
+      "clues": [
+        "Minha ascensão e queda ilustram os desafios do poder e da justiça em mundos fantásticos.", "Sou conhecida como Mãe dos Dragões.", "Minha família é a Casa Targaryen.", "Busquei o Trono de Ferro.", "Minha trajetória envolve poder e justiça.",
+        "Sou símbolo de força feminina.", "Minha imagem é icônica com cabelos prateados.", "Sou tema de debates sobre liderança.", "Minha fama atravessa gerações de fãs.", "Sou inspiração para mulheres em busca de poder.",
+        "Minha história envolve desafios e superações.", "Sou reconhecida por minha coragem.", "Minha presença é marcante em batalhas épicas.", "Sou protagonista de momentos decisivos.", "Minha frase famosa é 'Dracarys!'.",
+        "Sou referência em séries de fantasia.", "Minha imagem é símbolo de liberdade.", "Minha trajetória inspira discussões sobre justiça.", "Sou símbolo de transformação.", "Meu nome é sinônimo de Game of Thrones."
+      ]
+    },
+    {
+      "name": "Simba",
+      "clues": [
+        "Minha trajetória representa o ciclo da vida e a busca por identidade e liderança.", "Fui exilado após a morte de meu pai, Mufasa.", "Minha jornada envolve redenção e coragem.", "Sou conhecido pelo rugido poderoso.", "Minha história é marcada por amizade e superação.",
+        "Sou símbolo de liderança e responsabilidade.", "Minha imagem é icônica na cultura pop.", "Sou tema de filmes e musicais.", "Minha fama atravessa gerações de fãs.", "Sou inspiração para crianças e adultos.",
+        "Minha trajetória envolve desafios e aprendizados.", "Sou reconhecido por minha bravura.", "Minha presença é marcante em cenas emocionantes.", "Sou protagonista de momentos decisivos.", "Minha frase famosa é 'Hakuna Matata'.",
+        "Sou referência em animação.", "Minha imagem é símbolo de esperança.", "Minha história inspira discussões sobre família.", "Sou símbolo de transformação.", "Meu nome é sinônimo de O Rei Leão."
+      ]
+    },
+    {
+      "name": "Lula",
+      "clues": [
+        "Minha trajetória política é marcada por ascensão de movimentos populares e profundas transformações sociais no Brasil.", "Minha origem é nordestina, nasci em Pernambuco.", "Fui líder sindical antes de entrar na política.", "Sou fundador do Partido dos Trabalhadores.", "Minha trajetória é marcada por superação e luta social.",
+        "Fui eleito presidente em 2002 e 2006.", "Minha imagem é associada à inclusão social.", "Sou conhecido pelo programa Bolsa Família.", "Minha história envolve desafios e polêmicas.", "Sou tema de livros, filmes e documentários.",
+        "Minha fama atravessa gerações.", "Sou inspiração para líderes populares.", "Minha trajetória envolve prisões e absolvições.", "Sou reconhecido por minha oratória.", "Minha presença é marcante em manifestações políticas.",
+        "Sou símbolo de esperança para muitos brasileiros.", "Minha imagem é referência internacional.", "Sou lembrado por discursos históricos.", "Minha carreira é marcada por prêmios e homenagens.", "Meu nome é sinônimo de política brasileira."
+      ]
+    },
+    {
+      "name": "Bolsonaro",
+      "clues": [
+        "Minha ascensão política está ligada a pautas conservadoras e à polarização ideológica no cenário nacional.", "Minha carreira começou como militar do Exército.", "Fui deputado federal por vários mandatos.", "Sou conhecido por discursos polêmicos.", "Minha imagem é associada ao conservadorismo político.",
+        "Sou tema de debates sobre economia e saúde pública.", "Minha trajetória envolve controvérsias e manifestações.", "Sou lembrado pela gestão da pandemia de Covid-19.", "Minha presença é marcante nas redes sociais.", "Sou inspiração para movimentos de direita.",
+        "Minha fama atravessa gerações.", "Sou reconhecido por minha postura firme.", "Minha carreira é marcada por prêmios e críticas.", "Sou lembrado por frases de impacto.", "Minha imagem é referência em política nacional.",
+        "Sou tema de livros, filmes e documentários.", "Minha trajetória envolve desafios e superações.", "Sou símbolo de polarização política.", "Minha história inspira debates acalorados.", "Meu nome é sinônimo de política brasileira."
+      ]
+    }
+    ,
+    {
+      "name": "Moisés",
+      "clues": [
+        "Fui criado como príncipe, mas não era egípcio.",
+        "Minha história envolve fuga e libertação de um povo.",
+        "Fui escolhido para liderar uma travessia pelo deserto.",
+        "Recebi instruções divinas em uma montanha.",
+        "Minha vida é marcada por milagres e sinais.",
+        "Sou lembrado por abrir o Mar Vermelho.",
+        "Recebi tábuas com mandamentos.",
+        "Minha liderança foi desafiada por muitos.",
+        "Fui mediador entre Deus e um povo escravizado.",
+        "Minha história é tema de filmes e livros.",
+        "Sou símbolo de fé e perseverança.",
+        "Minha imagem é associada a cajado e barba longa.",
+        "Sou inspiração para líderes religiosos.",
+        "Minha trajetória envolve exílio e retorno.",
+        "Sou lembrado por confrontar faraós.",
+        "Minha história é celebrada em festas religiosas.",
+        "Sou referência em libertação e justiça.",
+        "Minha presença é marcante em textos sagrados.",
+        "Sou símbolo de aliança divina.",
+        "Meu nome é sinônimo de profeta e legislador."
+      ]
+    }
+    ,
+    {
+      "name": "Davi",
+      "clues": [
+        "Fui escolhido entre muitos irmãos, mas não era o mais velho.",
+        "Minha juventude foi marcada por coragem diante de gigantes.",
+        "Sou lembrado por derrotar um guerreiro com uma pedra.",
+        "Minha música acalmava reis atormentados.",
+        "Fui perseguido antes de assumir o trono.",
+        "Minha história envolve batalhas e conquistas.",
+        "Sou autor de muitos cânticos e poemas.",
+        "Minha liderança unificou um povo dividido.",
+        "Cometi erros, mas busquei arrependimento.",
+        "Minha linhagem é referência para profecias.",
+        "Sou símbolo de coragem e fé.",
+        "Minha imagem é associada a harpa e coroa.",
+        "Sou inspiração para músicos e líderes.",
+        "Minha trajetória envolve amizade e lealdade.",
+        "Sou lembrado por dançar diante da arca.",
+        "Minha história é tema de salmos e orações.",
+        "Sou referência em liderança e humildade.",
+        "Minha presença é marcante em textos sagrados.",
+        "Sou símbolo de rei justo.",
+        "Meu nome é sinônimo de coragem e louvor."
+      ]
+    }
+    ,
+    {
+      "name": "Maria",
+      "clues": [
+        "Minha história começa com uma visita inesperada de um mensageiro.",
+        "Fui escolhida para uma missão única entre todas as mulheres.",
+        "Minha vida é marcada por fé e obediência.",
+        "Sou lembrada por um nascimento em Belém.",
+        "Minha imagem é símbolo de maternidade e pureza.",
+        "Fui testemunha de milagres e ensinamentos.",
+        "Minha presença é constante em momentos decisivos.",
+        "Sou inspiração para orações e devoção.",
+        "Minha trajetória envolve dor e esperança.",
+        "Sou celebrada em festas religiosas ao redor do mundo.",
+        "Sou símbolo de amor incondicional.",
+        "Minha imagem é associada a véu e serenidade.",
+        "Sou inspiração para mães e mulheres.",
+        "Minha história é tema de arte sacra.",
+        "Sou lembrada por palavras de sabedoria.",
+        "Minha presença é marcante em textos sagrados.",
+        "Sou referência em humildade e entrega.",
+        "Minha fé é celebrada por gerações.",
+        "Sou símbolo de intercessão.",
+        "Meu nome é sinônimo de mãe e devoção."
+      ]
+    }
+    ,
+    {
+      "name": "Pedro",
+      "clues": [
+        "Minha profissão original não era religiosa.",
+        "Fui chamado para seguir um mestre enquanto trabalhava.",
+        "Minha personalidade é marcada por impulsividade e coragem.",
+        "Sou lembrado por andar sobre as águas.",
+        "Neguei meu mestre, mas fui restaurado.",
+        "Minha liderança foi fundamental para uma nova comunidade.",
+        "Sou símbolo de fé e arrependimento.",
+        "Minha imagem é associada a chaves e pescador.",
+        "Sou inspiração para líderes e pastores.",
+        "Minha trajetória envolve milagres e pregações.",
+        "Sou lembrado por discursos marcantes.",
+        "Minha história é tema de cartas e relatos.",
+        "Sou referência em coragem e humildade.",
+        "Minha presença é marcante em textos sagrados.",
+        "Sou símbolo de fundação e continuidade.",
+        "Minha fé é celebrada por gerações.",
+        "Sou inspiração para pescadores e trabalhadores.",
+        "Minha história envolve prisões e libertações.",
+        "Sou símbolo de liderança espiritual.",
+        "Meu nome é sinônimo de pedra e fundamento."
+      ]
+    }
+    ,
+    {
+      "name": "Jesus",
+      "clues": [
+        "Minha origem é cercada de profecias e expectativas messiânicas.",
+        "Nasci em circunstâncias humildes, mas minha influência é global.",
+        "Minha infância foi marcada por sabedoria incomum.",
+        "Fui reconhecido por milagres e ensinamentos revolucionários.",
+        "Minha mensagem desafiou tradições e autoridades da época.",
+        "Fui traído por um dos meus seguidores.",
+        "Minha morte foi vista como sacrifício por muitos.",
+        "Minha ressurreição é celebrada em todo o mundo.",
+        "Sou inspiração para bilhões de pessoas.",
+        "Minha história é tema de livros, filmes e músicas.",
+        "Sou símbolo de amor incondicional e perdão.",
+        "Minha imagem é associada a cruz e túnica.",
+        "Sou lembrado por parábolas e sermões.",
+        "Minha trajetória envolve doze discípulos.",
+        "Sou referência em compaixão e humildade.",
+        "Minha presença é marcante em textos sagrados.",
+        "Sou celebrado em festas religiosas ao redor do mundo.",
+        "Minha mensagem é de paz e reconciliação.",
+        "Sou símbolo de esperança e salvação.",
+        "Meu nome é sinônimo de fé cristã."
+      ]
+    }
+    ,
+    {
+      "name": "Matusalém",
+      "clues": [
+        "Minha história é envolta em mistério e longevidade extrema.",
+        "Sou citado em genealogias antigas e textos sagrados.",
+        "Minha vida atravessou gerações e grandes eventos bíblicos.",
+        "Fui contemporâneo de patriarcas e profetas.",
+        "Minha idade é recorde entre todos os personagens bíblicos.",
+        "Sou lembrado por ter vivido antes do dilúvio.",
+        "Minha descendência inclui figuras importantes.",
+        "Minha morte é associada a um evento marcante na história bíblica.",
+        "Sou símbolo de resistência e sobrevivência.",
+        "Minha trajetória é tema de debates sobre longevidade.",
+        "Sou inspiração para estudos sobre genealogia.",
+        "Minha imagem é associada a sabedoria e experiência.",
+        "Sou lembrado por minha paciência e fé.",
+        "Minha história é celebrada em tradições religiosas.",
+        "Vivi 969 anos, segundo os textos sagrados.",
+        "Minha presença é marcante em textos sagrados.",
+        "Sou símbolo de vida longa e perseverança.",
+        "Minha fama atravessa gerações.",
+        "Sou inspiração para quem busca viver muito.",
+        "Meu nome é sinônimo de longevidade."
+      ]
+    }
+  ]
+}

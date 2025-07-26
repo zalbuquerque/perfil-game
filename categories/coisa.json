@@ -1,0 +1,267 @@
+{
+  "category": "COISA",
+  "items": [
+    {
+      "name": "Smartphone",
+      "clues": [
+        "Sou resultado da convergência entre telefonia, computação e internet.", "Minha tela é sensível ao toque.", "Sou usado para comunicação instantânea.", "Tenho acesso à internet em qualquer lugar.", "Minha câmera captura momentos.",
+        "Sou um assistente pessoal no bolso.", "Minha bateria precisa ser recarregada regularmente.", "Sou usado para redes sociais e entretenimento.", "Minha evolução é rápida e constante.",
+        "Sou um símbolo de conectividade moderna.", "Minha segurança é uma preocupação constante.", "Sou usado para trabalho e lazer.", "Minha tecnologia é baseada em sistemas operacionais avançados.", "Sou um dispositivo multifuncional.",
+        "Minha popularidade é global.", "Sou usado para navegação e localização.", "Minha tela é meu portal para o mundo digital.", "Sou um dispositivo indispensável na vida moderna.", "Minha evolução continua a surpreender.", "Sou um símbolo de inovação tecnológica."
+      ]
+    },
+
+    {
+      "name": "Impressora 3D",
+      "clues": [
+        "Transformo arquivos digitais em objetos físicos camada por camada.", "Minha tecnologia é baseada em additivos de material.", "Sou usada em prototipagem rápida e fabricação personalizada.", "Minha precisão é impressionante.", "Sou usada em diversas indústrias, desde medicina até moda.",
+        "Minha evolução está em constante ritmo.", "Sou capaz de criar peças complexas e detalhadas.", "Minha versatilidade é minha força.", "Sou usada para criar protótipos funcionais.",
+        "Minha presença está crescendo em lares e empresas.", "Sou tema de debates sobre propriedade intelectual.", "Minha capacidade de personalização é revolucionária.", "Sou usada para criar peças sob demanda.", "Minha tecnologia é baseada em software avançado.", "Sou usada para criar modelos arquitetônicos e artísticos.",
+        "Minha evolução está mudando a forma como fabricamos.", "Sou usada para criar peças de reposição e acessórios personalizados.", "Minha presença está crescendo em setores como educação e engenharia.", "Sou um símbolo de inovação e criatividade.", "Minha capacidade de criar objetos únicos é fascinante."
+      ]
+    },
+    {
+      "name": "Energia Solar",
+      "clues": [
+        "Converto fótons em corrente elétrica por meio do efeito fotovoltaico.", "Minha tecnologia é baseada em células fotovoltaicas.", "Sou usado para gerar eletricidade a partir da luz solar.", "Minha presença está crescendo em residências e empresas.", "Sou um símbolo de sustentabilidade.",
+        "Minha eficiência está em constante evolução.", "Sou usado para reduzir a dependência de combustíveis fósseis.", "Minha instalação é cada vez mais acessível.", "Sou tema de debates sobre energia renovável.", "Minha capacidade de gerar energia é significativa.",
+        "Sou usado para alimentar tudo, desde casas até satélites.", "Minha presença no mercado está crescendo rapidamente.", "Sou um dispositivo que ajuda a combater as mudanças climáticas.", "Minha tecnologia é baseada em semicondutores avançados.", "Sou usado para armazenar energia em baterias solares.",
+        "Minha capacidade de gerar energia limpa é revolucionária.", "Sou usado para alimentar veículos elétricos e sistemas de armazenamento de energia.", "Minha presença no mundo é um testemunho da inovação tecnológica.", "Sou um símbolo de progresso ambiental.", "Sou um dispositivo que transforma luz em eletricidade."
+      ]
+    },
+    {
+      "name": "Bicicleta",
+      "clues": [
+        "Sou movida por força humana e transmissão mecânica simples.", "Tenho duas rodas e pedais.", "Sou usado para lazer, esporte e locomoção.", "Minha popularidade cresce nas cidades.", "Sou símbolo de mobilidade urbana.",
+        "Minha manutenção é simples.", "Sou tema de competições como o Tour de France.", "Minha presença é marcante em ciclovias.", "Sou usado para entregas e deslocamentos rápidos.", "Minha história é antiga e cheia de evolução.",
+        "Sou inspiração para estilos de vida saudáveis.", "Minha imagem é associada à liberdade.", "Sou reconhecida por minha versatilidade.", "Minha tecnologia inclui marchas e freios modernos.", "Sou símbolo de sustentabilidade.",
+        "Minha fama atravessa gerações.", "Sou usada em esportes radicais como BMX.", "Minha presença é marcante em parques e ruas.", "Sou referência em transporte limpo.", "Meu nome é sinônimo de mobilidade."
+      ]
+    },
+    {
+      "name": "Livro",
+      "clues": [
+        "Sou um conjunto de folhas encadernadas com conteúdo textual ou visual.", "Minhas páginas guardam histórias e informações.", "Sou usado para estudo, lazer e pesquisa.", "Minha presença é marcante em bibliotecas e escolas.", "Sou símbolo de cultura e educação.",
+        "Minha história é milenar.", "Sou inspiração para escritores e leitores.", "Minha imagem é associada à sabedoria.", "Sou reconhecido por minha diversidade de gêneros.", "Minha tecnologia evoluiu para o formato digital.",
+        "Sou tema de feiras e eventos culturais.", "Minha fama atravessa gerações.", "Sou usado para ensinar e entreter.", "Minha presença é marcante em lares e instituições.", "Sou símbolo de transformação pessoal.",
+        "Minha influência vai além das palavras.", "Sou referência em literatura.", "Minha história envolve revoluções culturais.", "Sou inspiração para mudanças sociais.", "Meu nome é sinônimo de aprendizado."
+      ]
+    },
+    {
+      "name": "Fone de Ouvido",
+      "clues": [
+        "Transformo sinais elétricos em ondas sonoras diretamente no ouvido.", "Minha tecnologia evoluiu para o formato sem fio.", "Sou símbolo de privacidade sonora.", "Minha presença é marcante em ambientes urbanos.", "Sou inspiração para amantes da música.",
+        "Minha imagem é associada à concentração.", "Sou reconhecido por minha qualidade de áudio.", "Minha fama atravessa gerações.", "Sou usado para chamadas e reuniões online.", "Minha tecnologia inclui cancelamento de ruído.",
+        "Sou tema de debates sobre saúde auditiva.", "Minha presença é marcante em academias e transportes.", "Sou símbolo de inovação tecnológica.", "Minha história envolve evolução constante.", "Sou referência em conforto e design.",
+        "Minha influência vai além do entretenimento.", "Sou inspiração para criadores de conteúdo.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de conectividade.", "Meu nome é sinônimo de som pessoal."
+      ]
+    },
+    {
+      "name": "Câmera Fotográfica",
+      "clues": [
+        "Utilizo lentes e sensores para converter luz em imagens permanentes.", "Minha tecnologia evoluiu do analógico para o digital.", "Sou símbolo de criatividade e expressão.", "Minha presença é marcante em viagens e eventos.", "Sou inspiração para fotógrafos profissionais e amadores.",
+        "Minha imagem é associada à arte visual.", "Sou reconhecida por minha capacidade de registrar histórias.", "Minha fama atravessa gerações.", "Sou usada em redes sociais e mídias digitais.", "Minha tecnologia inclui lentes e sensores avançados.",
+        "Sou tema de exposições e concursos.", "Minha presença é marcante em estúdios e ambientes externos.", "Sou símbolo de inovação tecnológica.", "Minha história envolve evolução constante.", "Sou referência em qualidade de imagem.",
+        "Minha influência vai além da fotografia.", "Sou inspiração para cineastas e artistas.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de memória e emoção.", "Meu nome é sinônimo de registro visual."
+      ]
+    },
+    {
+      "name": "Chave",
+      "clues": [
+        "Sou um objeto metálico com cortes específicos para mecanismos de travamento.", "Minha presença é indispensável no dia a dia.", "Sou símbolo de segurança e acesso.", "Minha tecnologia evoluiu para o formato digital.", "Sou inspiração para metáforas de solução.",
+        "Minha imagem é associada à liberdade.", "Sou reconhecida por minha utilidade.", "Minha fama atravessa gerações.", "Sou usada em carros, casas e cofres.", "Minha tecnologia inclui sistemas eletrônicos.",
+        "Sou tema de debates sobre segurança.", "Minha presença é marcante em bolsas e bolsos.", "Sou símbolo de proteção.", "Minha história envolve evolução constante.", "Sou referência em praticidade.",
+        "Minha influência vai além do objeto físico.", "Sou inspiração para designers e engenheiros.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de acesso e controle.", "Meu nome é sinônimo de abertura."
+      ]
+    },
+    {
+      "name": "Relógio",
+      "clues": [
+        "Sou usado para medir.", "Minha tecnologia evoluiu do analógico ao digital.", "Sou símbolo de pontualidade.", "Minha presença é marcante em pulsos e paredes.", "Sou inspiração para designers.",
+        "Minha história envolve precisão e inovação.", "Sou usado em esportes e competições.", "Minha imagem é associada ao luxo.", "Sou referência em organização.", "Minha fama atravessa gerações.",
+        "Sou tema de colecionadores.", "Minha tecnologia inclui cronômetros e alarmes.", "Sou símbolo de passagem do tempo.", "Minha presença é marcante em escritórios e escolas.", "Sou inspiração para metáforas de vida.",
+        "Minha evolução acompanha avanços tecnológicos.", "Sou usado para controlar rotinas.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de precisão.", "Meu nome é sinônimo de tempo."
+      ]
+    },
+    {
+      "name": "Óculos",
+      "clues": [
+        "Sou usado para melhorar um dos 5 sentidos", "Minha tecnologia inclui lentes corretivas e de proteção.", "Sou símbolo de estilo e personalidade.", "Minha presença é marcante em rostos famosos.", "Sou inspiração para designers de moda.",
+        "Minha história envolve inovação óptica.", "Sou usado para leitura e trabalho.", "Minha imagem é associada à inteligência.", "Sou referência em saúde ocular.", "Minha fama atravessa gerações.",
+        "Sou tema de tendências fashion.", "Minha tecnologia inclui lentes fotossensíveis.", "Sou símbolo de proteção contra o sol.", "Minha presença é marcante em ambientes acadêmicos.", "Sou inspiração para personagens icônicos.",
+        "Minha evolução acompanha avanços médicos.", "Sou usado para esportes e lazer.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de conforto visual.", "Meu nome é sinônimo de visão."
+      ]
+    },
+    {
+      "name": "Mochila",
+      "clues": [
+        "Sou usada para carregar coisas.", "Minha tecnologia inclui compartimentos e alças ajustáveis.", "Sou símbolo de praticidade.", "Minha presença é marcante em escolas e viagens.", "Sou inspiração para designers de acessórios.",
+        "Minha história envolve aventura e exploração.", "Sou usada por estudantes e profissionais.", "Minha imagem é associada à mobilidade.", "Sou referência em organização pessoal.", "Minha fama atravessa gerações.",
+        "Sou tema de tendências urbanas.", "Minha tecnologia inclui materiais resistentes.", "Sou símbolo de liberdade de movimento.", "Minha presença é marcante em trilhas e cidades.", "Sou inspiração para viajantes.",
+        "Minha evolução acompanha avanços em ergonomia.", "Sou usada para esportes e lazer.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de versatilidade.", "Meu nome é sinônimo de transporte pessoal."
+      ]
+    },
+    {
+      "name": "Garrafa de Água",
+      "clues": [
+        "Sou usada para armazenar.", "Minha tecnologia inclui materiais térmicos e recicláveis.", "Sou símbolo de hidratação.", "Minha presença é marcante em academias e escritórios.", "Sou inspiração para campanhas de saúde.",
+        "Minha história envolve evolução de materiais.", "Sou usada por atletas e estudantes.", "Minha imagem é associada à sustentabilidade.", "Sou referência em consumo consciente.", "Minha fama atravessa gerações.",
+        "Sou tema de tendências ecológicas.", "Minha tecnologia inclui filtros e tampas inovadoras.", "Sou símbolo de praticidade.", "Minha presença é marcante em viagens e esportes.", "Sou inspiração para designers de produtos.",
+        "Minha evolução acompanha avanços em saúde.", "Sou usada para transporte de bebidas.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de cuidado pessoal.", "Meu nome é sinônimo de hidratação."
+      ]
+    },
+    {
+      "name": "Lâmpada",
+      "clues": [
+        "Tenho diversos formatos", "Minha invenção revolucionou a vida noturna.", "Sou símbolo de ideias e criatividade.", "Minha tecnologia evoluiu do incandescente ao LED.", "Sou indispensável em ambientes internos.",
+        "Minha presença é marcante em casas e escritórios.", "Sou inspiração para engenheiros e inventores.", "Minha história envolve Thomas Edison.", "Sou referência em eficiência energética.", "Minha fama atravessa gerações.",
+        "Sou tema de debates sobre sustentabilidade.", "Minha tecnologia inclui sensores e automação.", "Sou símbolo de inovação.", "Minha presença é marcante em ruas e avenidas.", "Sou inspiração para metáforas de iluminação.",
+        "Minha evolução acompanha avanços tecnológicos.", "Sou usada para criar ambientes aconchegantes.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de clareza.", "Meu nome é sinônimo de luz artificial."
+      ]
+    },
+    {
+      "name": "Violão",
+      "clues": [
+        "Sou um instrumento.", "Minha caixa de ressonância amplifica o som.", "Sou símbolo de expressão artística.", "Minha presença é marcante em rodas de música.", "Sou inspiração para compositores e cantores.",
+        "Minha história envolve diferentes estilos musicais.", "Sou usado em apresentações solo e em grupo.", "Minha imagem é associada à cultura popular.", "Sou referência em aprendizado musical.", "Minha fama atravessa gerações.",
+        "Sou tema de festivais e concursos.", "Minha tecnologia inclui captadores elétricos.", "Sou símbolo de criatividade.", "Minha presença é marcante em escolas de música.", "Sou inspiração para músicas famosas.",
+        "Minha evolução acompanha avanços em construção de instrumentos.", "Sou usado para compor e acompanhar.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de harmonia.", "Meu nome é sinônimo de música acústica."
+      ]
+    },
+    {
+      "name": "Escova de Dentes",
+      "clues": [
+        "Sou usada para higiene.", "Minha tecnologia inclui cerdas e formatos variados.", "Sou símbolo de saúde.", "Minha presença é marcante em banheiros.", "Sou inspiração para campanhas de prevenção.",
+        "Minha história envolve evolução de materiais.", "Sou usada diariamente por bilhões de pessoas.", "Minha imagem é associada à limpeza.", "Sou referência em cuidados pessoais.", "Minha fama atravessa gerações.",
+        "Sou tema de debates sobre saúde pública.", "Minha tecnologia inclui versões elétricas.", "Sou símbolo de rotina saudável.", "Minha presença é marcante em consultórios odontológicos.", "Sou inspiração para designers de produtos.",
+        "Minha evolução acompanha avanços em odontologia.", "Sou usada para prevenir doenças.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de bem-estar.", "Meu nome é sinônimo de limpeza dental."
+      ]
+    },
+    {
+      "name": "Caderno",
+      "clues": [
+        "Sou composto por folhas.", "Minha função é registrar informações.", "Sou símbolo de estudo e organização.", "Minha presença é marcante em escolas e escritórios.", "Sou inspiração para escritores e estudantes.",
+        "Minha história envolve evolução de formatos.", "Sou usado para anotações e desenhos.", "Minha imagem é associada à criatividade.", "Sou referência em planejamento.", "Minha fama atravessa gerações.",
+        "Sou tema de tendências em papelaria.", "Minha tecnologia inclui folhas recicláveis.", "Sou símbolo de produtividade.", "Minha presença é marcante em reuniões e aulas.", "Sou inspiração para projetos pessoais.",
+        "Minha evolução acompanha avanços em design.", "Sou usado para registrar ideias.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de organização pessoal.", "Meu nome é sinônimo de anotação."
+      ]
+    },
+    {
+      "name": "Bússola",
+      "clues": [
+        "Funciono com base no campo magnético terrestre.", "Sou essencial para navegação sem tecnologia moderna.", "Minha agulha aponta para o norte.", "Fui fundamental em grandes explorações.", "Sou símbolo de orientação e aventura.",
+        "Minha história envolve descobertas geográficas.", "Sou usada por escoteiros e navegadores.", "Minha imagem é associada à precisão.", "Sou referência em mapas e trilhas.", "Minha fama atravessa gerações.",
+        "Sou tema de histórias de sobrevivência.", "Minha tecnologia é simples e eficaz.", "Sou símbolo de direção.", "Minha presença é marcante em expedições.", "Sou inspiração para metáforas de escolha.",
+        "Minha evolução acompanha avanços em cartografia.", "Sou usada para encontrar caminhos.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de descoberta.", "Meu nome é sinônimo de orientação."
+      ]
+    },
+    {
+      "name": "Termômetro",
+      "clues": [
+        "Utilizo dilatação de líquidos ou sensores eletrônicos.", "Sou usado para medir grandezas físicas.", "Minha escala pode ser Celsius ou Fahrenheit.", "Sou símbolo de precisão científica.", "Minha presença é marcante em laboratórios e hospitais.",
+        "Minha história envolve avanços na medicina.", "Sou usado para monitorar saúde e clima.", "Minha imagem é associada à ciência.", "Sou referência em controle de temperatura.", "Minha fama atravessa gerações.",
+        "Sou tema de debates sobre mudanças climáticas.", "Minha tecnologia inclui versões digitais.", "Sou símbolo de cuidado.", "Minha presença é marcante em residências.", "Sou inspiração para metáforas de equilíbrio.",
+        "Minha evolução acompanha avanços em eletrônica.", "Sou usado para prever fenômenos naturais.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de adaptação.", "Meu nome é sinônimo de medição térmica."
+      ]
+    },
+    {
+      "name": "Parafuso",
+      "clues": [
+        "Sou um elemento de fixação com rosca.", "Minha função é unir peças de forma segura.", "Sou símbolo de engenharia e construção.", "Minha presença é marcante em máquinas e móveis.", "Sou inspiração para metáforas de ajuste.",
+        "Minha história envolve evolução de ferramentas.", "Sou usado em projetos industriais.", "Minha imagem é associada à resistência.", "Sou referência em montagem.", "Minha fama atravessa gerações.",
+        "Sou tema de debates sobre inovação mecânica.", "Minha tecnologia inclui diferentes tipos de cabeça.", "Sou símbolo de precisão.", "Minha presença é marcante em oficinas.", "Sou inspiração para engenheiros.",
+        "Minha evolução acompanha avanços em materiais.", "Sou usado para reparos.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de funcionalidade.", "Meu nome é sinônimo de fixação."
+      ]
+    },
+    {
+      "name": "Envelope",
+      "clues": [
+        "Sou feito de papel e usado para proteger conteúdo.", "Minha função é transportar mensagens.", "Sou símbolo de comunicação tradicional.", "Minha presença é marcante em correspondências.", "Sou inspiração para metáforas de segredo.",
+        "Minha história envolve evolução dos correios.", "Sou usado para enviar documentos.", "Minha imagem é associada à privacidade.", "Sou referência em formalidade.", "Minha fama atravessa gerações.",
+        "Sou tema de debates sobre segurança postal.", "Minha tecnologia inclui selos e lacres.", "Sou símbolo de expectativa.", "Minha presença é marcante em escritórios.", "Sou inspiração para designers de papelaria.",
+        "Minha evolução acompanha avanços em comunicação.", "Sou usado para convites.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de proteção de conteúdo.", "Meu nome é sinônimo de correspondência."
+      ]
+    },
+    {
+      "name": "Primavera",
+      "clues": [
+        "Sou marcada por mudanças sutis na natureza.", "Minha chegada é celebrada em diferentes culturas.", "Sou símbolo de renovação e esperança.", "Minha influência é sentida em jardins e parques.", "Sou inspiração para poetas e artistas.",
+        "Minha história envolve festivais e tradições.", "Sou usada como metáfora para recomeços.", "Minha imagem é associada a flores e cores vivas.", "Sou referência em ciclos naturais.", "Minha fama atravessa gerações.",
+        "Sou tema de obras literárias e musicais.", "Minha tecnologia é a própria natureza.", "Sou símbolo de fertilidade.", "Minha presença é marcante em celebrações ao ar livre.", "Sou inspiração para moda e decoração.",
+        "Minha evolução acompanha o calendário anual.", "Sou usada para representar juventude.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de alegria e leveza.", "Meu nome é sinônimo de florescimento."
+      ]
+    },
+    {
+      "name": "Borracha",
+      "clues": [
+        "Sou feita de materiais flexíveis.", "Minha função é apagar marcas indesejadas.", "Sou símbolo de correção.", "Minha presença é marcante em estojos escolares.", "Sou inspiração para metáforas de recomeço.",
+        "Minha história envolve evolução de materiais.", "Sou usada por artistas e estudantes.", "Minha imagem é associada à limpeza.", "Sou referência em papelaria.", "Minha fama atravessa gerações.",
+        "Sou tema de debates sobre sustentabilidade.", "Minha tecnologia inclui versões ecológicas.", "Sou símbolo de praticidade.", "Minha presença é marcante em escritórios.", "Sou inspiração para designers de produtos.",
+        "Minha evolução acompanha avanços em materiais.", "Sou usada para apagar erros.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de segunda chance.", "Meu nome é sinônimo de correção."
+      ]
+    },
+    {
+      "name": "Guarda-chuva",
+      "clues": [
+        "Sou composto por hastes e tecido impermeável.", "Minha função é proteger contra chuva.", "Sou símbolo de prevenção.", "Minha presença é marcante em dias nublados.", "Sou inspiração para metáforas de proteção.",
+        "Minha história envolve evolução de design.", "Sou usado por pessoas de todas as idades.", "Minha imagem é associada à praticidade.", "Sou referência em acessórios urbanos.", "Minha fama atravessa gerações.",
+        "Sou tema de tendências fashion.", "Minha tecnologia inclui versões automáticas.", "Sou símbolo de cuidado.", "Minha presença é marcante em cidades.", "Sou inspiração para artistas.",
+        "Minha evolução acompanha avanços em materiais.", "Sou usado para sombra também.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de proteção.", "Meu nome é sinônimo de abrigo portátil."
+      ]
+    },
+    {
+      "name": "Teclado",
+      "clues": [
+        "Sou formado por fileiras.", "Minha função é transmitir comandos.", "Sou símbolo de comunicação digital.", "Minha presença é marcante em computadores e instrumentos musicais.", "Sou inspiração para programadores e músicos.",
+        "Minha história envolve evolução tecnológica.", "Sou usado para digitar e criar.", "Sem mim, palavras não ganham forma.", "Sou referência em produtividade.", "Minha fama atravessa gerações.",
+        "Sou tema de debates sobre ergonomia.", "Minha tecnologia inclui versões mecânicas e virtuais.", "Sou símbolo de inovação.", "Minha presença é marcante em escritórios e estúdios.", "Sou inspiração para designers de hardware.",
+        "Minha evolução acompanha avanços em tecnologia.", "Sou usado para jogos e trabalho.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de expressão.", "Meu nome é sinônimo de interface."
+      ]
+    },
+    {
+      "name": "Pente",
+      "clues": [
+        "Sou feito de dentes alinhados.", "Minha função é desembaraçar e alinhar fios.", "Sou símbolo de cuidado pessoal.", "Minha presença é marcante em banheiros e salões.", "Sou inspiração para metáforas de organização.",
+        "Minha história envolve evolução de materiais.", "Sou usado por pessoas de todas as idades.", "Minha imagem é associada à beleza.", "Sou referência em higiene.", "Minha fama atravessa gerações.",
+        "Sou tema de tendências em moda.", "Minha tecnologia inclui versões elétricas.", "Sou símbolo de praticidade.", "Minha presença é marcante em kits de viagem.", "Sou inspiração para designers de produtos.",
+        "Minha evolução acompanha avanços em design.", "Sou usado para modelar cabelos.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de cuidado.", "Meu nome é sinônimo de alinhamento."
+      ]
+    },
+    {
+      "name": "Bateria (instrumento)",
+      "clues": [
+        "Sou formada por diferentes peças de percussão.", "Minha função é criar ritmo e base musical.", "Sou símbolo de energia e movimento.", "Minha presença é marcante em bandas e shows.", "Sou inspiração para músicos e compositores.",
+        "Minha história envolve evolução de estilos musicais.", "Sou usada em diversos gêneros musicais.", "Minha imagem é associada à força.", "Sou referência em apresentações ao vivo.", "Minha fama atravessa gerações.",
+        "Sou tema de festivais e competições.", "Minha tecnologia inclui versões eletrônicas.", "Sou símbolo de criatividade.", "Minha presença é marcante em estúdios de gravação.", "Sou inspiração para solos marcantes.",
+        "Minha evolução acompanha avanços em construção de instrumentos.", "Sou usada para compor e acompanhar.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de ritmo.", "Meu nome é sinônimo de percussão."
+      ]
+    },
+    {
+      "name": "Lanterna",
+      "clues": [
+        "Sou fonte portátil de luz artificial.", "Minha função é iluminar ambientes escuros.", "Sou símbolo de descoberta e exploração.", "Minha presença é marcante em acampamentos e emergências.", "Sou inspiração para metáforas de clareza.",
+        "Minha história envolve evolução de baterias.", "Sou usada por aventureiros e profissionais.", "Minha imagem é associada à segurança.", "Sou referência em equipamentos de sobrevivência.", "Minha fama atravessa gerações.",
+        "Sou tema de debates sobre eficiência energética.", "Minha tecnologia inclui LEDs e recarga solar.", "Sou símbolo de praticidade.", "Minha presença é marcante em casas e carros.", "Sou inspiração para designers de produtos.",
+        "Minha evolução acompanha avanços em iluminação.", "Sou usada para sinalização.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de orientação.", "Meu nome é sinônimo de luz portátil."
+      ]
+    },
+    {
+      "name": "Copo",
+      "clues": [
+        "Sou recipiente para líquidos.", "Minha função é servir e armazenar bebidas.", "Sou símbolo de celebração e convivência.", "Minha presença é marcante em mesas e festas.", "Sou inspiração para metáforas de abundância.",
+        "Minha história envolve evolução de materiais.", "Sou usado por pessoas de todas as idades.", "Minha imagem é associada à hospitalidade.", "Sou referência em utensílios domésticos.", "Minha fama atravessa gerações.",
+        "Sou tema de tendências em design.", "Minha tecnologia inclui versões térmicas.", "Sou símbolo de praticidade.", "Minha presença é marcante em restaurantes e bares.", "Sou inspiração para brindes.",
+        "Minha evolução acompanha avanços em sustentabilidade.", "Sou usado para diferentes tipos de bebidas.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de partilha.", "Meu nome é sinônimo de recipiente."
+      ]
+    },
+    {
+      "name": "Tesoura",
+      "clues": [
+        "Sou formada por duas lâminas cruzadas.", "Minha função é cortar materiais diversos.", "Sou símbolo de precisão e criatividade.", "Minha presença é marcante em escritórios e salões.", "Sou inspiração para metáforas de decisão.",
+        "Minha história envolve evolução de ferramentas.", "Sou usada por profissionais e estudantes.", "Minha imagem é associada à habilidade.", "Sou referência em artesanato.", "Minha fama atravessa gerações.",
+        "Sou tema de debates sobre ergonomia.", "Minha tecnologia inclui versões para diferentes usos.", "Sou símbolo de praticidade.", "Minha presença é marcante em escolas e fábricas.", "Sou inspiração para designers de produtos.",
+        "Minha evolução acompanha avanços em materiais.", "Sou usada para criar e transformar.", "Minha imagem é reconhecida mundialmente.", "Sou símbolo de corte.", "Meu nome é sinônimo de ferramenta de corte."
+      ]
+    }
+  ]
+}

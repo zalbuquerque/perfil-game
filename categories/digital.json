@@ -1,0 +1,158 @@
+{
+  "category": "DIGITAL",
+  "items": [
+    {
+      "name": "Realidade Virtual",
+      "clues": [
+        "Faço você entrar em mundos digitais.", "Meu headset é sua porta de entrada.", "Simulo experiências imersivas.", "Sou usado em jogos e treinamentos.", "A tecnologia me torna mais realista.",
+        "Posso ser usado na medicina e educação.", "Minha evolução é rápida.", "A interação é minha chave.", "Sou tema de debates éticos.", "A realidade aumentada me complementa.",
+        "Sou popular entre gamers e profissionais.", "Minha indústria cresce a cada dia.", "Experiências sociais são minhas aliadas.", "O futuro me reserva inovações incríveis.",
+        "Sou usado para terapia e reabilitação.", "A criatividade me impulsiona.", "Sou acessível com smartphones modernos.", "Minha presença é crescente no entretenimento.",
+        "A realidade virtual redefine o aprendizado.", "Sou o futuro da interação digital."
+      ]
+    },
+    {
+      "name": "Linux",
+      "clues": [
+        "Minha arquitetura modular e código aberto revolucionaram sistemas operacionais e infraestrutura digital.", "Sou base para servidores, supercomputadores e dispositivos embarcados.", "Meu mascote é um pinguim chamado Tux.", "Sou usado por desenvolvedores e entusiastas de tecnologia.", "Minha distribuição é feita por diversas comunidades.",
+        "Sou símbolo de liberdade e colaboração.", "Minha segurança é reconhecida mundialmente.", "Sou tema de debates sobre software livre.", "Minha presença é marcante em ambientes corporativos.", "Sou usado em smartphones Android.",
+        "Minha evolução é constante.", "Sou referência em estabilidade e desempenho.", "Minha interface pode ser gráfica ou por terminal.", "Sou usado para programação e automação.", "Minha história envolve Linus Torvalds.",
+        "Sou inspiração para projetos educacionais.", "Minha comunidade é global e ativa.", "Sou símbolo de inovação aberta.", "Minha compatibilidade é ampla.", "Sou tema de certificações profissionais."
+      ]
+    },
+    {
+      "name": "YouTube",
+      "clues": [
+        "Minha plataforma alterou paradigmas de produção e consumo audiovisual, democratizando o acesso à informação.", "Sou usado para educação, entretenimento e divulgação científica.", "Minha história começou em 2005.", "Sou palco de criadores de conteúdo independentes.", "Minha monetização é feita por anúncios e parcerias.",
+        "Sou referência em vídeos virais.", "Minha presença é global.", "Sou tema de debates sobre direitos autorais.", "Minha interface é intuitiva.", "Sou usado para transmissões ao vivo.",
+        "Minha influência na cultura pop é marcante.", "Sou símbolo de autoexpressão.", "Minha comunidade é diversa.", "Sou usado para tutoriais e reviews.", "Minha evolução inclui shorts e stories.",
+        "Sou tema de memes e tendências digitais.", "Minha tecnologia permite streaming em alta qualidade.", "Sou inspiração para novos formatos de mídia.", "Minha marca é reconhecida por todas as idades.", "Sou usado para aprender e ensinar."
+      ]
+    },
+    {
+      "name": "Amazon Alexa",
+      "clues": [
+        "Minha inteligência artificial baseada em voz transformou a automação residencial e interação homem-máquina.", "Sou usada para controlar dispositivos inteligentes.", "Minha ativação é feita por comando de voz.", "Sou referência em assistentes virtuais.", "Minha integração é ampla com serviços digitais.",
+        "Sou tema de debates sobre privacidade.", "Minha presença é global.", "Sou usada para tocar músicas e responder perguntas.", "Minha evolução inclui rotinas personalizadas.", "Sou símbolo de casa conectada.",
+        "Minha tecnologia é baseada em aprendizado de máquina.", "Sou usada para compras online.", "Minha interface é amigável.", "Sou inspiração para outras assistentes.", "Minha marca é reconhecida internacionalmente.",
+        "Sou usada para entretenimento e produtividade.", "Minha comunidade é ativa.", "Sou tema de inovação em IA.", "Minha história envolve a Amazon.", "Sou usada para facilitar o dia a dia."
+      ]
+    },
+    {
+      "name": "PayPal",
+      "clues": [
+        "Minha infraestrutura digital revolucionou pagamentos online e segurança financeira global.", "Sou referência em transações seguras.", "Minha história começou nos anos 1990.", "Sou usado para compras internacionais.", "Minha marca é reconhecida mundialmente.",
+        "Sou tema de debates sobre fintechs.", "Minha presença é marcante em e-commerce.", "Sou símbolo de praticidade.", "Minha tecnologia é integrada a diversos sites.", "Sou usado para transferências entre pessoas.",
+        "Minha evolução inclui carteiras digitais.", "Sou inspiração para startups financeiras.", "Minha interface é intuitiva.", "Sou tema de discussões sobre taxas e regulamentação.", "Minha segurança é baseada em criptografia.",
+        "Sou usado para pagamentos recorrentes.", "Minha comunidade é global.", "Sou símbolo de inovação financeira.", "Minha história envolve Elon Musk.", "Sou usado para facilitar negócios digitais."
+      ]
+    },
+    
+    {
+      "name": "Carros Elétricos",
+      "clues": [
+        "Movidos por baterias, não por combustíveis fósseis.", "Sou o futuro da mobilidade urbana.", "Minha autonomia está em constante evolução.", "A sustentabilidade é meu objetivo.", "Carregamento rápido é meu desafio.",
+        "Sou silencioso e eficiente.", "A infraestrutura de recarga está crescendo.", "Sou tema de debates sobre energia renovável.", "Minha tecnologia está avançando rapidamente.", "Sou visto como solução para a poluição.",
+        "A autonomia elétrica é minha marca registrada.", "Sou popular entre os ambientalistas.", "Minha manutenção é mais simples que a dos carros a combustão.", "A conectividade me torna inteligente.",
+        "Sou usado em frotas corporativas e pessoais.", "Minha aceitação está aumentando globalmente.", "A inovação me impulsiona.", "Sou símbolo de progresso tecnológico.", "O futuro me reserva grandes avanços.", "Posso ser recarregado em casa ou em estações públicas."
+      ]
+    },
+    {
+      "name": "Computação Quântica",
+      "clues": [
+        "Desafio os limites da física clássica.", "Sou capaz de resolver problemas complexos rapidamente.", "Minha base é a mecânica quântica.", "Bits quânticos são minha essência.", "A superposição me torna poderoso.",
+        "Sou usado em simulações avançadas.", "A criptografia quântica é meu futuro.", "A computação paralela me define.", "Sou tema de debates científicos.", "Minha capacidade de processamento é revolucionária.",
+        "Sou usado em inteligência artificial e otimização.", "A entanglement é minha característica única.", "Sou visto como o futuro da computação.", "Minha implementação prática ainda é desafiadora.", "Sou usado em pesquisas médicas e financeiras.",
+        "A correção de erros é crucial para mim.", "Minha evolução pode mudar a indústria tecnológica.", "Sou tema de inovação e descoberta.", "A computação quântica redefine o que é possível.", " Sou o futuro da tecnologia."
+      ]
+    },
+    {
+      "name": "Internet das Coisas",
+      "clues": [
+        "Conecto dispositivos para coletar e compartilhar dados.", "Sou a base da automação residencial.", "Minha rede é composta por sensores e atuadores.", "A conectividade é minha essência.", "Sou usado em cidades inteligentes.",
+        "Minha segurança é um desafio constante.", "A interoperabilidade é meu objetivo.", "Sou tema de debates sobre privacidade.", "Minha presença está crescendo em indústrias e lares.", "Sou usado em saúde, agricultura e transporte.",
+        "A análise de dados é minha força motriz.", "Sou visto como o futuro da tecnologia.", "Minha infraestrutura é baseada em nuvem.", "A inteligência artificial me complementa.", "Sou usado para otimizar processos e recursos.",
+        "Minha evolução está em constante ritmo.", "Sou tema de inovação e descoberta.", "A conectividade 5G me impulsiona.", "Sou usado para monitoramento e controle remoto.", "Sou um símbolo de conectividade moderna."
+      ]
+    },
+        {
+      "name": "Bitcoin",
+      "clues": [
+        "Sou a primeira criptomoeda do mundo.", "Minha criação é atribuída a um pseudônimo.", "Sou descentralizado e baseado em blockchain.", "Minha oferta é limitada a 21 milhões de unidades.", "Sou usado como reserva de valor.",
+        "Minha volatilidade é notória.", "Sou tema de debates sobre regulamentação.", "Minha mineração requer poder computacional.",
+        "Sou visto como o futuro do dinheiro digital.", "Minha segurança é garantida por criptografia avançada.", "Sou usado para transações rápidas e baratas.", "Minha adoção está crescendo globalmente.", "Sou um símbolo de inovação financeira.", "Minha comunidade é apaixonada e dedicada.",
+        "Sou usado para investimentos e especulação.", "Minha tecnologia é complexa, mas acessível.", "Sou tema de discussões sobre privacidade e anonimato.", "Minha presença no mercado é significativa.", "Sou um ativo digital revolucionário.", "Minha história é marcada por altos e baixos."
+      ]
+    }
+    ,
+    {
+      "name": "Instagram",
+      "clues": [
+        "Minha ascensão redefiniu padrões de interação visual e influenciou comportamentos digitais globalmente.",
+        "Sou uma das redes sociais mais populares do mundo.", "Minha plataforma é focada em fotos e vídeos.", "Sou usado por influenciadores digitais.", "Meu feed é personalizado por algoritmos.", "Sou referência em tendências de moda e estilo.",
+        "Minha história começou em 2010.", "Sou tema de debates sobre privacidade e saúde mental.", "Minha presença é global.", "Sou símbolo de cultura visual.", "Minha marca é reconhecida por jovens e adultos.",
+        "Minhas stories desaparecem em 24 horas.", "Sou usado para marketing digital.", "Minha função Reels é voltada para vídeos curtos.", "Sou palco de lives e transmissões ao vivo.", "Minha interface é intuitiva e moderna.",
+        "Sou tema de memes e tendências virais.", "Minha comunidade é engajada.", "Sou usado para vendas online.", "Minha influência na cultura pop é marcante."
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "clues": [
+        "Minha tecnologia revolucionou a comunicação instantânea e transformou dinâmicas sociais e profissionais.",
+        "Minha plataforma permite chamadas de voz e vídeo.", "Sou referência em comunicação instantânea.", "Minha criptografia garante privacidade.", "Sou usado para grupos familiares e profissionais.",
+        "Minha história começou em 2009.", "Sou tema de debates sobre fake news.", "Minha presença é marcante em diversos países.", "Sou símbolo de conectividade moderna.", "Minha marca é reconhecida por todas as idades.",
+        "Sou usado para compartilhar fotos e vídeos.", "Minha função de status permite atualizações temporárias.", "Sou integrado a pagamentos digitais em alguns países.", "Minha interface é simples e acessível.", "Sou tema de discussões sobre segurança de dados.",
+        "Sou usado para comunicação empresarial.", "Minha popularidade é alta no Brasil e Índia.", "Sou palco de grupos de estudo e trabalho.", "Minha evolução inclui figurinhas e emojis.", "Sou símbolo de agilidade e praticidade."
+      ]
+    },
+    {
+      "name": "ChatGPT",
+      "clues": [
+        "Minha arquitetura neural é capaz de gerar textos e respostas que desafiam limites da automação cognitiva.",
+        "Sou usado para responder perguntas e gerar textos.", "Minha tecnologia é baseada em aprendizado profundo.", "Sou tema de debates sobre ética e automação.", "Minha presença é crescente em plataformas digitais.",
+        "Sou referência em assistentes virtuais.", "Minha evolução é rápida.", "Sou símbolo de inovação em IA.", "Minha marca é reconhecida por desenvolvedores.", "Sou usado para criar conteúdos e automatizar tarefas.",
+        "Sou capaz de conversar em vários idiomas.", "Minha base de dados é vasta e diversificada.", "Sou usado para educação e pesquisa.", "Minha interface é acessível online.", "Sou tema de discussões sobre criatividade artificial.",
+        "Sou usado para gerar ideias e roteiros.", "Minha tecnologia é aplicada em chatbots comerciais.", "Sou símbolo de automação inteligente.", "Minha evolução depende de feedback dos usuários.", "Sou inspiração para novas aplicações em IA."
+      ]
+    },
+    {
+      "name": "Spotify",
+      "clues": [
+        "Minha tecnologia de recomendação e distribuição alterou o consumo musical e o mercado fonográfico global.",
+        "Minha biblioteca tem milhões de faixas.", "Sou usado para criar playlists personalizadas.", "Minha presença é global.", "Sou referência em podcasts e áudio digital.",
+        "Minha história começou na Suécia.", "Sou tema de debates sobre direitos autorais.", "Minha marca é reconhecida por jovens e adultos.", "Sou símbolo de cultura musical moderna.", "Sou usado para descobrir novos artistas.",
+        "Sou usado para ouvir músicas offline.", "Minha função de rádio recomenda novas faixas.", "Sou palco de lançamentos exclusivos.", "Minha interface é intuitiva.", "Sou tema de playlists colaborativas.",
+        "Minha tecnologia permite streaming de alta qualidade.", "Sou usado para seguir artistas favoritos.", "Minha presença é marcante em festas e eventos.", "Sou símbolo de diversidade musical.", "Minha evolução inclui podcasts e audiobooks."
+      ]
+    },
+    {
+      "name": "TikTok",
+      "clues": [
+        "Minha influência digital redefiniu tendências culturais e acelerou a viralização de conteúdos audiovisuais.",
+        "Minha popularidade cresceu rapidamente entre jovens.", "Sou referência em tendências e desafios digitais.", "Minha presença é global.", "Sou usado para criar conteúdos criativos.",
+        "Minha história começou na China.", "Sou tema de debates sobre privacidade e segurança.", "Minha marca é reconhecida por influenciadores.", "Sou símbolo de cultura pop digital.", "Sou usado para viralizar músicas e danças.",
+        "Sou palco de lives e transmissões ao vivo.", "Minha interface é dinâmica e intuitiva.", "Sou tema de memes e desafios virais.", "Minha comunidade é engajada.", "Sou usado para marketing digital.",
+        "Minha influência na cultura jovem é marcante.", "Sou símbolo de criatividade e autoexpressão.", "Minha evolução inclui filtros e efeitos especiais.", "Sou usado para educação e informação.", "Minha presença é crescente em diversos países."
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "clues": [
+        "Minha infraestrutura descentralizada transformou paradigmas de armazenamento, processamento e segurança digital.",
+        "Minha infraestrutura é baseada em servidores distribuídos.", "Sou usado por empresas e usuários domésticos.", "Minha escalabilidade é uma vantagem.", "Sou referência em armazenamento seguro.",
+        "Minha história envolve grandes provedores como AWS, Azure e Google Cloud.", "Sou tema de debates sobre privacidade e segurança.", "Minha presença é crescente em todos os setores.", "Sou símbolo de inovação tecnológica.", "Sou usado para hospedar sites e aplicativos.",
+        "Sou usado para backup automático de dados.", "Minha evolução inclui inteligência artificial.", "Sou tema de discussões sobre custos e eficiência.", "Minha tecnologia permite colaboração remota.", "Sou símbolo de flexibilidade empresarial.",
+        "Minha presença é marcante em startups e grandes corporações.", "Sou usado para análise de big data.", "Minha segurança depende de criptografia avançada.", "Sou tema de treinamentos e certificações.", "Minha influência é crescente na transformação digital."
+      ]
+    },
+    {
+      "name": "Cibersegurança",
+      "clues": [
+        "Protejo dados e sistemas contra ataques.", "Sou tema de debates sobre privacidade.", "Minha importância cresce com a digitalização.", "Sou símbolo de proteção online.", "Minha evolução acompanha novas ameaças.",
+        "Sou usada por empresas e governos.", "Minha presença é global.", "Sou referência em tecnologia da informação.", "Sou tema de treinamentos e certificações.", "Minha atuação envolve hackers e especialistas.",
+        "Sou inspiração para políticas públicas.", "Minha eficiência é testada diariamente.", "Sou símbolo de confiança digital.", "Minha expansão depende de inovação.", "Sou usada para proteger identidades.",
+        "Minha história envolve grandes vazamentos.", "Sou lembrada por ataques famosos.", "Minha presença é marcante em ambientes corporativos.", "Sou tema de pesquisas científicas.", "Sou esperança para o futuro digital."
+      ]
+    }
+  ]
+}
